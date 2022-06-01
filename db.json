@@ -1,0 +1,371 @@
+{
+    "shoes": [
+      {
+        "title": "Startus B",
+        "price": "340000",
+        "count": "32",
+        "about": "Характеристики: I3-10100f 4/8, аналог i5-9400, i7-7700 Gigabyte H410M v3 Palit GTX1650 4G GDDR6 Apacer 16G 2666mhz Apacer 256G NVME Toshiba 1TB Deepcool DN450 Deepcool Gammaxx300 Aerocool Glider",
+        "images": [
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939847338254553158/271927235_1519563185110997_9033853895837608451_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939847337906429982/271928869_1093649858140446_5495652507417442157_n_1.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939847338468446218/271988695_1364039994029125_7917297030627521775_n.jpg"
+          }
+        ],
+        "category": "Готовые Сборки",
+        "id": 1
+      },
+      {
+        "title": "Imperium C",
+        "price": "650000",
+        "count": "53",
+        "about": "Характеристики ПК: i5-10400f ASUS TUF B560M-plus ASUS RTX3060ti 8G ASUS TUF 650w ASUS GT301 Kingston Fury RGB 16G 3200",
+        "images": [
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939847645269200926/261934853_127489043050156_7535517427279434672_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939847645525061682/261734447_294769252492007_7104489964174032258_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939847645759930418/261815353_229582085926926_4544111116114692608_n.jpg"
+          }
+        ],
+        "category": "Готовые Сборки",
+        "id": 2
+      },
+      {
+        "title": "Imperium C+",
+        "price": "630000",
+        "count": "13",
+        "about": "Характеристики: - i5-11600KF - Gigabyte Z590M Gaming X - Kingston Fury RGB 3200 16G - Kingston NV1 1000G - PNY RTX3060TI 8G - Bequiet Darkrock4 - Gigabyte 750w 80+gold - Deepcool Maccube 110",
+        "images": [
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939847874278219846/257602998_142075614831466_6268292696931221356_n_1.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939847874039119873/257726222_375822984324948_4537135815744619505_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939847874538270740/258835522_623125145394478_2164296500507349747_n.jpg"
+          }
+        ],
+        "category": "Готовые Сборки",
+        "id": 3
+      },
+      {
+        "title": "Imperium A",
+        "price": "984000",
+        "count": "40",
+        "about": "Характеристики - i7-11700K - Aorus Z590 Elite AX - Inno3D RTX 3060ti 8G - Kingston NV1 1000G - Kingston Fury 32G 3200M - WD RED 2TB - Gigabyte 750w 80+gold - Bequiet DarkRock 4 PRO - Bequiet PureBase 500DX",
+        "images": [
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939848128595644466/250090679_127044456367011_653392062194070897_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939848128306233344/249282476_1549462382065703_3210903262124313770_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939848127945506916/248991821_879405296274678_1259396185131609363_n.jpg"
+          }
+        ],
+        "category": "Готовые Сборки",
+        "id": 4
+      },
+      {
+        "title": "Imperium B",
+        "price": "1000000",
+        "count": "21",
+        "about": "Характеристики: - i7-11700 - ASUS TUF B560M-Plus - ASUS RTX3070 8G - Kingston Fury 3200m 16G - Asus TUF 750w - Deepcool Matrexx50 - Deepcool Gammaxx400ex",
+        "images": [
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939848381315026954/248671784_434295944979477_8273482372888826163_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939848381914808380/248167933_1972590152946189_680106191188974968_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939848381621235732/248636971_299447278442726_6267099247689223503_n.jpg"
+          }
+        ],
+        "category": "Готовые Сборки",
+        "id": 5
+      },
+      {
+        "title": "Optimus C+",
+        "price": "590000",
+        "count": "62",
+        "about": "Характеристики: - i5-10400f 6/12 - Gigabyte B460M DS3H - Gigabyte RTX2060 6G - Kingston Fury 2666 16G - Kingston a400 480G - Seagate 2TB - Gigabyte P650M 80+bronze - Aerocool Aero One Frost",
+        "images": [
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939848596520599552/245424912_2974014336146758_1604760774483209285_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939848597040689192/245518393_903920440548327_8594388732810658231_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939848596814172160/245410689_219442336951919_8934217359866391882_n.jpg"
+          }
+        ],
+        "category": "Готовые Сборки",
+        "id": 6
+      },
+      {
+        "title": "Glossarium B+",
+        "price": "1038000",
+        "count": "12",
+        "about": "Характеристики: i9-10900F 10/20 Bequiet Shadow Rock 3 Asrock Z590M Pro4 Hyperx Fury 3000mhz 64G Gigabyte RTX3060 12G Gaming OC Gigabyte Aorus 1TB PCIe 4.0 WD red 2TB Deepcool Maccube 110",
+        "images": [
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939849223153791077/175309936_1364997797200885_4349853447462391098_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939849223665483796/175772009_488120608898615_5057590776875180881_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939849223409659944/175617751_2719635568327119_5570228946906212226_n.jpg"
+          }
+        ],
+        "category": "Готовые Сборки",
+        "id": 7
+      },
+      {
+        "title": "Logitech G413 Silver",
+        "price": "55000",
+        "count": "86",
+        "about": "Достоинства: -Дизайн и качество материалов мне понравились. Авиационный алюминий с закруглеными краями выглядит очень стильно. Да и в общем в этой клавиатуре ничего лишнего. На фото можете подробно рассмотреть. -Наличие USB на клавиатуре тоже приятный бонус. -Фирменные переключатели очень тихие. Сравнимы с мембранкой. Для людей с детьми или с чутко спящей женой будет хороший выбор. -На дне клавиатуры находятся несколько резинок и на ножках тоже имеются резинки. Клавиатура на столе лежит как вкопаная. -Подсветка белого цвета тоже очень понравилась. Свет распределяется равномерно, так как светодиод расположен в центре.",
+        "images": [
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939849978526965840/107526721_128160728940865_7007091117977840516_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939849978212384788/108730965_618322828799242_769726808526956213_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939849978908659712/109211122_309328383769353_8848945285700766335_n.jpg"
+          }
+        ],
+        "category": "Клавиатуры",
+        "id": 8
+      },
+      {
+        "title": "Набор от HyperX",
+        "price": "147 618",
+        "count": "48",
+        "about": "Очень удобный беспроводной сет от hyperx Наушники HyperX Cloud Flight S Мышь HyperX Pulsefire Dart Зарядка HyperX ChargePlay Base Qi",
+        "images": [
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939850309264621568/91630655_237399827406443_4663357332785586264_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939850309499498516/92709075_159138922234062_3364306211713134335_n.jpg"
+          },
+          {
+            "color": "",
+            "images": "https://cdn.discordapp.com/attachments/892074524730880020/939850309814091786/91943511_251129669352487_9078690578348127758_n.jpg"
+          }
+        ],
+        "category": "Наборы",
+        "id": 9
+      },
+      {
+        "title": "AOC GM-510",
+        "price": "17990",
+        "count": "170",
+        "about": "Лёгкий вес 58гр. Скользит мышка по ковру отлично. Сенсор Pixart 3389. Кабель в паракорде.",
+        "images": [
+          {
+            "color": "",
+            "images": "https://media.discordapp.net/attachments/892074524730880020/980873685403578498/instasaver-430224116-1.jpg?width=553&height=553"
+          }
+        ],
+        "category": "Мышки",
+        "id": 10
+      },
+      {
+        "title": "HyperX Pulsefire Dart",
+        "price": "49 900",
+        "count": "63",
+        "about": "Отсутствие проводов. Топовый сенсор Pixart 3389. Беспроводная зарядка с помощью HyperX ChargePlay Base Qi. Есть штатный кабель зарядки. Батарея держит до 5 дней.",
+        "images": [
+          {
+            "color": "",
+            "images": "https://media.discordapp.net/attachments/892074524730880020/980875540703625236/instasaver-430224842-4.jpg?width=553&height=553"
+          }
+        ],
+        "category": "Мышки",
+        "id": 11,
+        "image": "https://media.discordapp.net/attachments/892074524730880020/980875540212899840/instasaver-430224842-2.jpg?width=553&height=553"
+      },
+      {
+        "title": "МОНИТОР HP EUROPE 4HZ38AA",
+        "price": "120000",
+        "count": "67",
+        "about": "Диагональ \t27″ - 68,6 см Разрешение \t1920х1080 (FullHD) Время отклика \t5 мс Яркость (Кд) \t300 кд/м2 Частота обновления \t60 Гц",
+        "images": [
+          {
+            "color": "",
+            "images": "https://media.discordapp.net/attachments/892074524730880020/981487144201773066/img_0_65_497_5_6.png?width=553&height=553"
+          },
+          {
+            "color": "",
+            "images": "https://media.discordapp.net/attachments/892074524730880020/981487143941701702/img_0_65_497_3_6.png?width=553&height=553"
+          }
+        ],
+        "category": "Мониторы",
+        "id": 12
+      }
+    ],
+    "users": [
+      {
+        "email": "maadanov03@gmail.com",
+        "favorites": [
+          {
+            "title": "Air Jordan 11",
+            "price": "225",
+            "size": [
+              "36",
+              "37",
+              "38",
+              "39",
+              "40",
+              "41",
+              "42",
+              "43",
+              "44"
+            ],
+            "images": [
+              {
+                "color": "Gray",
+                "images": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/702dfebe-dde5-4286-adc5-bc2315d9ed43/air-jordan-11-retro-mens-shoes-ZNF1qX.png"
+              },
+              {
+                "color": "",
+                "images": ""
+              }
+            ],
+            "category": "Jordan",
+            "id": 7
+          }
+        ],
+        "id": 2
+      },
+      {
+        "email": "ilim@gmail.com",
+        "favorites": [
+          {
+            "title": "Nike Air Max Pre-Day",
+            "price": "150",
+            "size": [
+              "36",
+              "37",
+              "41",
+              "43"
+            ],
+            "images": [
+              {
+                "color": "Brown",
+                "images": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/ca046791-0f4c-4139-b33d-311477952895/%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D0%BA%D0%B8-air-max-pre-day-LwQMf2.png"
+              },
+              {
+                "color": "red",
+                "images": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/387354c4-0cc9-43c3-a182-382beb00614a/%D0%BA%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D0%BA%D0%B8-air-max-pre-day-LwQMf2.png"
+              }
+            ],
+            "category": "Бег",
+            "id": 10
+          },
+          {
+            "title": "Air Jordan 11",
+            "price": "225",
+            "size": [
+              "36",
+              "37",
+              "38",
+              "39",
+              "40",
+              "41",
+              "42",
+              "43",
+              "44"
+            ],
+            "images": [
+              {
+                "color": "Gray",
+                "images": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/702dfebe-dde5-4286-adc5-bc2315d9ed43/air-jordan-11-retro-mens-shoes-ZNF1qX.png"
+              },
+              {
+                "color": "",
+                "images": ""
+              }
+            ],
+            "category": "Jordan",
+            "id": 8
+          },
+          {
+            "title": "Air Jordan 11",
+            "price": "225",
+            "size": [
+              "36",
+              "37",
+              "38",
+              "39",
+              "40",
+              "41",
+              "42",
+              "43",
+              "44"
+            ],
+            "images": [
+              {
+                "color": "Gray",
+                "images": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/702dfebe-dde5-4286-adc5-bc2315d9ed43/air-jordan-11-retro-mens-shoes-ZNF1qX.png"
+              },
+              {
+                "color": "",
+                "images": ""
+              }
+            ],
+            "category": "Бег",
+            "id": 4
+          }
+        ],
+        "id": 3
+      },
+      {
+        "email": "kensai228@gmail.com",
+        "favorites": [],
+        "id": 4
+      }
+    ]
+  }
