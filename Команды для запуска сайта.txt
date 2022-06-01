@@ -1,0 +1,2 @@
+npm start - zapsuk
+npx json-server --watch db.json --port 8000 - zapusk bazi dannih
